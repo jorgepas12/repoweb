@@ -1,6 +1,6 @@
 <div align="center">
 
-# ![Logo](ruta-del-logo.png)
+# ![Logo]((https://www.netec.com/))
 
 ## Plataforma de Laboratorios de Tecnología
 
