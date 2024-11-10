@@ -1,4 +1,4 @@
-# ![Logo](ruta-del-logo.png) Plataforma de Laboratorios de Tecnología
+# ![Logo](neteclogo.png) Plataforma de Laboratorios de Tecnología
 
 Bienvenido a la plataforma de laboratorios. Aquí encontrarás una colección de prácticas y experimentos diseñados para que desarrolles tus habilidades en diferentes tecnologías. Cada laboratorio está pensado para proporcionar una experiencia completa y práctica.
 
